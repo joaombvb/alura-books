@@ -16,6 +16,7 @@
 }
 
 .banner__pesquisa {
+    font-family: var(--fonte-principal);
     background-color: transparent;
     border: 1px solid var(--branco);
     color: var(--branco);
